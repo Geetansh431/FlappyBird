@@ -9,7 +9,8 @@ This is a simple clone of the popular Flappy Bird game, developed using Java and
 - Java-based GUI using Swing.
 - Score tracking system.
 - Randomly generated obstacles.
-- Game over screen with restart option.## Tech Stack
+- Game over screen with restart option.
+## Tech Stack
 
 - JAVA
 - Swing
